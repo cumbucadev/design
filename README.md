@@ -44,6 +44,7 @@ Organização Cumbuca Dev - logos, ícones e paleta de cores
 ## Cores da Organização
 
 - Cor Principal: `#8B008B`
-- Cor Secundária:  `#9CF4C8`
-- Cor Destaques:  `#FF8C00`
+- Cor Secundária:  `#E4C8E4`
+- Cor Destaques:  `#FFF2FF`
+- Cor Destaques 2: `#380038`
 
